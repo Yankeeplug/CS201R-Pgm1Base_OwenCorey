@@ -5,7 +5,6 @@ public class Main {
     public static void main(String[] args) {
     
     //create variables
-
     Scanner scanner = new Scanner(System.in);
     int inValue;
 
@@ -20,7 +19,7 @@ public class Main {
 
     //TASK 1:
     //add code to input a string that replaces the value in 'words'
-
+    System.out.printf("%s Are: Apple, Banana, and Orange.\n", words);
     //print the string
 
 
@@ -28,6 +27,7 @@ public class Main {
     //TASK 2:
     //add code to input a new value for the variable 'letter'
     //'letter' is defined in line 18
+    
 
     //TASK 3:
     //if the letter entered is A or B - print "You did GREAT!"
