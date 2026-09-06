@@ -19,9 +19,9 @@ public class Main {
 
     //TASK 1:
     //add code to input a string that replaces the value in 'words'
-    System.out.printf("%s Are: Apple, Banana, and Orange.\n", words);
+    words = "Some new words!";
     //print the string
-
+    System.out.println(words);
 
 
     //TASK 2:
